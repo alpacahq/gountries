@@ -1,4 +1,4 @@
-module github.com/alpacahq/gountries
+module github.com/pariz/gountries
 
 go 1.17
 
