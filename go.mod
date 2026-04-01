@@ -9,5 +9,6 @@ require (
 
 require (
 	github.com/davecgh/go-spew v1.1.0 // indirect
+	github.com/go-bindata/go-bindata v3.1.2+incompatible // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 )
